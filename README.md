@@ -1,10 +1,10 @@
-# 🏠 House Price Prediction using Linear Regression
+# House Price Prediction using Linear Regression
 
 This project predicts house prices based on key features like **square footage**, **bedrooms**, and **bathrooms** using a **Linear Regression** model.
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 > Implement a linear regression model to predict the prices of houses based on:
 - Square footage (`sqft_living`)
@@ -13,23 +13,23 @@ This project predicts house prices based on key features like **square footage**
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 We used the **King County Housing Dataset**, which includes house sale prices for King County, USA (Seattle area).
 
-📁 File used: `house_price_dataset.csv`  
-📊 Features used:
+ File used: `house_price_dataset.csv`  
+ Features used:
 - `sqft_living`
 - `bedrooms`
 - `bathrooms`  
-🎯 Target: `price`
+   Target: `price`
 
 You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
 The dataset name is kc_house_data.csv
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - **Python**
 - **Google Colab**
@@ -39,7 +39,7 @@ The dataset name is kc_house_data.csv
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Upload `house_price_dataset.csv` to Colab or clone this repo.
 2. Run the notebook: `House-price-prediction.ipynb`
@@ -47,7 +47,7 @@ The dataset name is kc_house_data.csv
 
 ---
 
-## 📈 Results
+## Results
 
 - Trained a Linear Regression model.
 - Achieved good prediction accuracy on test data.
